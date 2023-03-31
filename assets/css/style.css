@@ -1,21 +1,19 @@
 
-  
-  
   header {
-     background-color: #babfe7 ;
+     background-color: #9397b5 ;
      align-items: center;
      justify-content: center;
-     margin-top: 0cm;
+     margin-top: -10px;
      margin-left: 150px;
      margin-right:150px;
      
     }
 
-    header nav {
+   header nav {
       float: right;
     }
     
-    header nav ul {
+   header nav ul {
       margin-top: 35px;
       margin-right: 35px;
     }
@@ -25,23 +23,48 @@
       margin-left: 20px;
     }
 
-  section {
+    body {
+      background-color: #ccc;
+    }
+  
+#Hobbies {
      background-color: #c8a6a6;
      color: #000 ;
      margin-left: 150px; 
      margin-right: 150px;
-     font-size: 20px;
+     font-size: 18px;
      font-family: Georgia, 'Times New Roman', Times, serif;
      font-weight: lighter;
 
       }
 
 
-   
-body {
-  background-color: #ececec;
+#artistas{
+  background-color: #948383;
+     color: #000 ;
+     margin-left: 150px; 
+     margin-right: 150px;
+     font-size: 18px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: lighter;
+  
 }
+
    
+   
+figure {
+font-size: 15px;
+}
+
+#section-cont {
+  background-color: #bbafaf;
+  margin-left: 150px; 
+  margin-right: 150px;
+  font-size: 18px;
+
+}
+
+
    footer {
     text-align: center;
     margin-top: 40px;
