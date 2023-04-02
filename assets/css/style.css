@@ -52,25 +52,9 @@
 
    
    
-figure {
-font-size: 15px;
-position: relative;
-display: inline-block;
-text-align: center;
-}
 
-figcaption {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  
-  
-  color: rgb(20, 20, 20);
-  font-size: 15px;
-  
- 
-  
-}
+
+
 
 #section-cont {
   background-color: #bbafaf;
